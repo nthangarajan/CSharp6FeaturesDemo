@@ -1,0 +1,6 @@
+C:\Thanga\CSharp6FeaturesDemo\NameOfKeywordDemo\bin\Debug\NameOfKeywordDemo.exe.config
+C:\Thanga\CSharp6FeaturesDemo\NameOfKeywordDemo\bin\Debug\NameOfKeywordDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\NameOfKeywordDemo\bin\Debug\NameOfKeywordDemo.pdb
+C:\Thanga\CSharp6FeaturesDemo\NameOfKeywordDemo\obj\Debug\NameOfKeywordDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp6FeaturesDemo\NameOfKeywordDemo\obj\Debug\NameOfKeywordDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\NameOfKeywordDemo\obj\Debug\NameOfKeywordDemo.pdb

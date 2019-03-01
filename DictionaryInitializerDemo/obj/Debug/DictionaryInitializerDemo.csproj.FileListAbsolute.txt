@@ -1,0 +1,7 @@
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\bin\Debug\DictionaryInitializerDemo.exe.config
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\bin\Debug\DictionaryInitializerDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\bin\Debug\DictionaryInitializerDemo.pdb
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\obj\Debug\DictionaryInitializerDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\obj\Debug\DictionaryInitializerDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\obj\Debug\DictionaryInitializerDemo.pdb
+C:\Thanga\CSharp6FeaturesDemo\DictionaryInitializerDemo\obj\Debug\DictionaryInitializerDemo.csprojAssemblyReference.cache

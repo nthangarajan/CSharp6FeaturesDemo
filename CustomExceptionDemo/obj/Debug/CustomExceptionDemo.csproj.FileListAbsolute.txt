@@ -1,0 +1,6 @@
+C:\Thanga\CSharp6FeaturesDemo\CustomExceptionDemo\bin\Debug\CustomExceptionDemo.exe.config
+C:\Thanga\CSharp6FeaturesDemo\CustomExceptionDemo\bin\Debug\CustomExceptionDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\CustomExceptionDemo\bin\Debug\CustomExceptionDemo.pdb
+C:\Thanga\CSharp6FeaturesDemo\CustomExceptionDemo\obj\Debug\CustomExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp6FeaturesDemo\CustomExceptionDemo\obj\Debug\CustomExceptionDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\CustomExceptionDemo\obj\Debug\CustomExceptionDemo.pdb

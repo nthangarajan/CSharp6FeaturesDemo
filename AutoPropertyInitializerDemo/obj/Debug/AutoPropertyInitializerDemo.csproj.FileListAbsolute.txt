@@ -1,0 +1,6 @@
+C:\Thanga\CSharp6FeaturesDemo\AutoPropertyInitializerDemo\bin\Debug\AutoPropertyInitializerDemo.exe.config
+C:\Thanga\CSharp6FeaturesDemo\AutoPropertyInitializerDemo\bin\Debug\AutoPropertyInitializerDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\AutoPropertyInitializerDemo\bin\Debug\AutoPropertyInitializerDemo.pdb
+C:\Thanga\CSharp6FeaturesDemo\AutoPropertyInitializerDemo\obj\Debug\AutoPropertyInitializerDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp6FeaturesDemo\AutoPropertyInitializerDemo\obj\Debug\AutoPropertyInitializerDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\AutoPropertyInitializerDemo\obj\Debug\AutoPropertyInitializerDemo.pdb

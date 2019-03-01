@@ -1,0 +1,7 @@
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\bin\Debug\ExpressionBodiedDemo.exe.config
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\bin\Debug\ExpressionBodiedDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\bin\Debug\ExpressionBodiedDemo.pdb
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\obj\Debug\ExpressionBodiedDemo.csprojAssemblyReference.cache
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\obj\Debug\ExpressionBodiedDemo.csproj.CoreCompileInputs.cache
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\obj\Debug\ExpressionBodiedDemo.exe
+C:\Thanga\CSharp6FeaturesDemo\ExpressionBodiedDemo\obj\Debug\ExpressionBodiedDemo.pdb
